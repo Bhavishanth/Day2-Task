@@ -1,0 +1,2 @@
+Q1. Write a blog on difference between document and window object.
+https://medium.com/@bhavishanthsuresh/difference-between-document-and-window-object-5af1d3f10118
